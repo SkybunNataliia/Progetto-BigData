@@ -1,0 +1,25 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di ambiente virtuale
+venv/
+.env
+*.env
+
+# File compilati Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Log, dump e altri output temporanei
+*.log
+*.out
+*.txt
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# File di configurazione locale o segreti
+*.secret
+*.key
