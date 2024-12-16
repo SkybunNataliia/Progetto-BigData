@@ -6,6 +6,9 @@ Thumbs.db
 venv/
 .env
 *.env
+Lib/
+Scripts/
+pyvenv.cfg
 
 # File compilati Python
 *.pyc
