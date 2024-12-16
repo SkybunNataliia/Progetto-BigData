@@ -26,3 +26,6 @@ __pycache__/
 # File di configurazione locale o segreti
 *.secret
 *.key
+
+etc/
+share/
