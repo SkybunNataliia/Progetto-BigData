@@ -27,5 +27,6 @@ __pycache__/
 *.secret
 *.key
 
+# Other files
 etc/
 share/
